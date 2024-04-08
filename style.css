@@ -35,7 +35,7 @@ i{
     /* color: #ffffff; */
 }
 
-.container{
+.container-one{
     position: relative;
 }
 
@@ -202,4 +202,11 @@ header{
     margin-left: -3vw;
     border: 1px solid #B97E71;
     rotate: 50deg;
+}
+.container{
+    display: none;
+}
+
+#cap{
+   display: none;
 }
